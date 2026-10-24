@@ -1,4 +1,4 @@
-cpu_usage = 90
+cpu_usage = 65
 
 if cpu_usage >= 85:
     print("WARNING: High CPU usage")
