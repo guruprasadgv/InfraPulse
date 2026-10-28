@@ -8,3 +8,4 @@ else:
     print("CPU usage is normal")
 
 print("InfraPulse monitoring check complete.")
+print("InfraPulse CPU check finished.")
